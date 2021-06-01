@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=renefx.renefx&style=flat-square&color=0088cc)
 
-Simply put, I'm an iOS developer! 👨🏾‍💻 I have published +10 app to the app store developing them with Swift and Objective-C 🖥 (and also I've published a few to the play store). I'm a Full Professor at IESB College 🎓 for the iOS and Beckend subjects, maybe that's why I love to mentor. I'm loving SwiftUI, so probably you'll see more of that arounf here!
+Simply put, I'm an iOS developer! 👨🏾‍💻 I have published +10 app to the app store developing them with Swift and Objective-C 🖥 (and also I've published a few to the play store). I'm a Full Professor at IESB College 🎓 for the iOS and Beckend subjects, maybe that's why I love to mentor. I'm loving SwiftUI, so probably you'll see more of that around here!
 
 <img align="right" height="306" width="320" alt="" src="https://media.giphy.com/media/ZKQpx4TYrxTtS/giphy.gif" />
 
