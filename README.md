@@ -17,7 +17,7 @@ Simply put, I'm an iOS developer! 👨🏾‍💻 I have published +10 app to th
 
 - 🛠 &nbsp; I’m currently working with Objective-C & Swift.
 - 🚀 &nbsp; I’m currently learning SwiftUI 😍.
-- 💬 &nbsp; Ask me about anything [here](https://github.com/renefx/renefx/issues/1)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/renefx/renefx/discussions/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: renefx@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/renefx/renefx/blob/main/Rene_Xavier_iOS_Developer_Resume.pdf).
 
