@@ -1,4 +1,21 @@
-![](https://github.com/renefx/renefx/blob/main/header.png)
+<table>
+<tr>
+<td>
+
+<img src="https://github.com/renefx/swiftui_learn/blob/main/images/GlassmorphismII.png" width="250">
+
+</td>
+<td>
+
+<img src="https://github.com/renefx/swiftui_learn/blob/main/images/Glassmorphism.gif" width="250">
+
+</td>
+<td>
+
+<img src="https://github.com/renefx/swiftui_learn/blob/main/images/DragDropGame.gif" width="250">
+</td>
+</tr>
+</table> 
 
 ### Hi 👋, I'm Rene X!
 
@@ -6,6 +23,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://renefx.com/)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/......./)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/.......) -->
+[Repo for images above (SwiftUI)](https://github.com/renefx/swiftui_learn)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=renefx.renefx&style=flat-square&color=0088cc)
 
